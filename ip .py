@@ -10,9 +10,9 @@ def create_banner():
 
     # Program name and styling
     program_name = f"{Fore.RED}ip address checker  "
-    team_name = f"{Fore.GREEN}skypar team !!"
-    developer_name = f"{Fore.YELLOW}skypar"
-    github_link = f"{Fore.CYAN}https://github.com/Skyparteam"
+    team_name = f"{Fore.GREEN}ip checker !!"
+    developer_name = f"{Fore.YELLOW}himansu pal"
+    github_link = f"{Fore.CYAN}https://github.com/himansu-pal419845"
 
     # Combine all parts of the banner
     banner = f"""
